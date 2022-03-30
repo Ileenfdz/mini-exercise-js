@@ -1,0 +1,23 @@
+{
+  "name": "mini-exercise-js",
+  "version": "1.0.0",
+  "description": "A mini exercise using js for promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileenfdz/mini-exercise-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ileenfdz/mini-exercise-js/issues"
+  },
+  "homepage": "https://github.com/Ileenfdz/mini-exercise-js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
